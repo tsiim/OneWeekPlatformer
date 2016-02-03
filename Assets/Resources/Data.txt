@@ -1,0 +1,4 @@
+﻿Wrongway=true
+HopHop=false
+dingdong=false
+omg=false
